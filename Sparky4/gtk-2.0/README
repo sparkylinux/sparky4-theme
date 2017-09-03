@@ -1,0 +1,9 @@
+Adwaita style GTK+ 2 theme.
+
+  * Tested in Fedora 21 (GNOME 3.14)
+
+
+Based on Adwaita GTK+ theme
+  * GTK+ 3 theme - https://github.com/GNOME/gtk
+  * GTK+ 2 theme - https://github.com/GNOME/gnome-themes-standard
+
